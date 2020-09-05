@@ -1,6 +1,6 @@
 /**
- * Author: Eric Corrado
- * Date: 2020
+ * Author: Eric Corrado, Daniel Zuniga
+ * Date: September 4th 2020
  *
  * A simple hello world program
  */
@@ -9,7 +9,7 @@
 
  int main(int argc, char **argv) {
 
-     printf("Eric Corrado!\n");
+     printf("Eric Corrado! Daniel Zuniga!\n");
 
      return 0;
  }
